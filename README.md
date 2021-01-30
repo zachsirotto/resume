@@ -1,3 +1,7 @@
+# Zach Sirotto's Resume
+
+https://github.com/zachsirotto/resume/blob/main/resume.pdf
+
 ## Requirements and Compilation
 
 * pdflatex + biber + pdflatex
